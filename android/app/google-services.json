@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "623285326151",
+    "project_id": "tfzr-biblioteka",
+    "storage_bucket": "tfzr-biblioteka.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623285326151:android:47c53a980b202f1f963c62",
+        "android_client_info": {
+          "package_name": "com.dejan.tfzr_biblioteka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623285326151-o8s1ipj2akeiqb0letbq0jucc3inalje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAprzahOi8NqLVYbSWJgdiLLesi1RFPoxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623285326151-o8s1ipj2akeiqb0letbq0jucc3inalje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
